@@ -1,5 +1,6 @@
 Feature: Customer
 
+@Sanity
 Scenario: Add New Customer
 Given User Launch Chrome browser 
 	When User opens URL "http://admin-demo.nopcommerce.com/login" 
@@ -15,7 +16,7 @@ Given User Launch Chrome browser
 	Then User can view confirmation message "The new customer has been added successfully" 
 	And close browser 
 
-	
+	@regression
 	Scenario: Search Customer by Email
 	Given User Launch Chrome browser 
 	When User opens URL "http://admin-demo.nopcommerce.com/login" 
@@ -29,7 +30,7 @@ Given User Launch Chrome browser
 	Then User should found Email in the Search table
 	And close browser 
 	
-	
+	@regression
 	Scenario: Search Customer by Name
 	Given User Launch Chrome browser 
 	When User opens URL "http://admin-demo.nopcommerce.com/login" 

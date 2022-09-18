@@ -60,7 +60,7 @@ public class MySearchCustomerPage {
 	}
 
 
-	public boolean searchCustomerByEmail(String email)
+	public boolean searchCustomerByEmail(String email) throws Exception
 	{
 		boolean found = false;
 
@@ -74,7 +74,7 @@ public class MySearchCustomerPage {
 		for(int i=1;i<=ttlRows;i++)//to iterate all the rows of the grid
 		{
 			System.out.println("Searching row:" +i );
-
+            Thread.sleep(3000);
 			WebElement webElementEmail = ldriver.findElement(By.xpath("//table[@id='customers-grid']//tbody/tr[" + i  + "]/td[2]"));
 			String actualEmailAdd = webElementEmail.getText();
 			System.out.println(actualEmailAdd);
@@ -103,7 +103,7 @@ public class MySearchCustomerPage {
 		lastName.sendKeys(LastNameText);
 	}
 
-	public boolean searchCustomerByName(String name)
+	public boolean searchCustomerByName(String name) throws Exception
 	{
 		boolean found = false;
 
@@ -113,6 +113,7 @@ public class MySearchCustomerPage {
 
 		for(int i=1;i<=ttlRows;i++)//to iterate all the rows of the grid
 		{
+			Thread.sleep(3000);
 			WebElement webElementName = ldriver.findElement(By.xpath("//table[@id='customers-grid']//tbody/tr[" + i  + "]/td[3]"));
 			String actualName = webElementName.getText();
 
