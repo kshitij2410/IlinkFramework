@@ -682,3 +682,160 @@
 [WARN ] 2022-09-22 19:11:10.341 [main] MyStepDef - Test passed: Login feature :Page title matched.
 [INFO ] 2022-09-22 19:11:14.852 [main] MyStepDef - logout button clicked
 [WARN ] 2022-09-22 19:11:14.860 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:31:26.633 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:31:26.675 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:31:32.164 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:31:36.015 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:31:36.025 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:31:37.517 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:31:37.519 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:31:42.994 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:31:46.765 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:31:46.772 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:31:48.137 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:31:48.139 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:31:53.586 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:31:57.561 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:31:57.571 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:31:58.968 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:31:58.969 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:32:04.223 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:32:08.060 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:32:08.070 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:32:12.448 [main] MyStepDef - logout button clicked
+[WARN ] 2022-09-22 19:32:12.456 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:32:13.562 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:32:13.563 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:32:18.974 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:32:22.598 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:32:22.606 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:32:27.153 [main] MyStepDef - logout button clicked
+[WARN ] 2022-09-22 19:32:27.160 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:33:35.319 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:33:35.379 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:33:39.952 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:33:43.213 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:33:43.224 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:33:44.641 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:33:44.643 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:33:49.207 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:33:51.749 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:33:51.758 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:33:53.165 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:33:53.166 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:33:59.092 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:34:02.922 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:34:02.931 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:34:04.287 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:34:04.288 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:34:08.554 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:34:11.268 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:34:11.277 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:34:15.704 [main] MyStepDef - logout button clicked
+[WARN ] 2022-09-22 19:34:15.711 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:34:19.050 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:34:19.052 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:34:24.678 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:34:28.812 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:34:28.821 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:34:33.346 [main] MyStepDef - logout button clicked
+[WARN ] 2022-09-22 19:34:33.353 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:35:42.200 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:35:42.243 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:35:47.489 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:35:51.334 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:35:51.344 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:35:52.781 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:35:52.783 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:35:58.227 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:36:02.263 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:36:02.271 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:36:03.688 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:36:03.690 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:36:08.924 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:36:12.814 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:36:12.822 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:36:14.156 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:36:14.158 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:36:19.032 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:36:24.681 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:36:24.691 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:36:29.153 [main] MyStepDef - logout button clicked
+[WARN ] 2022-09-22 19:36:29.164 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:36:30.283 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:36:30.284 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:36:35.365 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:36:54.963 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:36:54.972 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:37:00.246 [main] MyStepDef - logout button clicked
+[WARN ] 2022-09-22 19:37:00.251 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:38:35.054 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:38:35.096 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:38:40.604 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:38:59.741 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:38:59.755 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:39:04.662 [main] MyStepDef - user can view dashboard test passed.
+[INFO ] 2022-09-22 19:39:07.401 [main] MyStepDef - User can view confirmation message - passed
+[INFO ] 2022-09-22 19:39:10.847 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:39:10.849 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:39:16.417 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:39:20.154 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:39:20.162 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:39:21.611 [main] MyStepDef - Email address entered
+[INFO ] 2022-09-22 19:39:21.661 [main] MyStepDef - Clicked on search button.
+[INFO ] 2022-09-22 19:39:26.724 [main] MyStepDef - User should found Email in the Search table - passed
+[INFO ] 2022-09-22 19:39:27.832 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:39:27.834 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:39:32.783 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:39:46.909 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:39:46.916 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:39:48.341 [main] MyStepDef - Clicked on search button.
+[INFO ] 2022-09-22 19:39:54.452 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:39:54.454 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:39:59.660 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:40:03.429 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:40:03.436 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:40:08.079 [main] MyStepDef - logout button clicked
+[WARN ] 2022-09-22 19:40:08.090 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:40:09.147 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:40:09.148 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:40:14.454 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:40:18.176 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:40:18.182 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:40:22.655 [main] MyStepDef - logout button clicked
+[WARN ] 2022-09-22 19:40:22.663 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:55:41.711 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:55:41.859 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:55:48.266 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:55:53.388 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:55:53.411 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:55:57.214 [main] MyStepDef - user can view dashboard test passed.
+[INFO ] 2022-09-22 19:56:01.035 [main] MyStepDef - User can view confirmation message - passed
+[INFO ] 2022-09-22 19:56:03.376 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:56:03.381 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:56:09.302 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:56:13.853 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:56:13.870 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:56:16.293 [main] MyStepDef - Email address entered
+[INFO ] 2022-09-22 19:56:16.446 [main] MyStepDef - Clicked on search button.
+[INFO ] 2022-09-22 19:56:21.565 [main] MyStepDef - User should found Email in the Search table - passed
+[INFO ] 2022-09-22 19:56:24.012 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:56:24.030 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:56:30.459 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:56:35.221 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:56:35.237 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:56:37.643 [main] MyStepDef - Clicked on search button.
+[INFO ] 2022-09-22 19:56:45.020 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:56:45.025 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:56:51.253 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:56:55.933 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:56:55.944 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:57:00.596 [main] MyStepDef - logout button clicked
+[WARN ] 2022-09-22 19:57:00.605 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:57:02.645 [main] MyStepDef - setup 1 executed
+[INFO ] 2022-09-22 19:57:02.647 [main] MyStepDef - user launch browser
+[INFO ] 2022-09-22 19:57:07.945 [main] MyStepDef - url launch 
+[INFO ] 2022-09-22 19:57:12.031 [main] MyStepDef - login button clicked
+[WARN ] 2022-09-22 19:57:12.056 [main] MyStepDef - Test passed: Login feature :Page title matched.
+[INFO ] 2022-09-22 19:57:16.925 [main] MyStepDef - logout button clicked
+[WARN ] 2022-09-22 19:57:16.973 [main] MyStepDef - Test passed: Login feature :Page title matched.
