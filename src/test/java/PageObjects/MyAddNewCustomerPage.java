@@ -2,6 +2,7 @@ package PageObjects;
 
 import java.time.Duration;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -21,6 +22,7 @@ public class MyAddNewCustomerPage {
 		PageFactory.initElements(ldriver, this);
 	}
 	public WebDriverWait wait;
+	static JavascriptExecutor exe;
 	//Find web elements on the web page
 	@FindBy(xpath="//a[@href='#']//p[contains(text(),'Customers')]")	 
 	WebElement lnkCustomers_menu;
@@ -97,7 +99,9 @@ public class MyAddNewCustomerPage {
 	}
 
 	public void clickOnCustomersMenu() {
-		lnkCustomers_menu.click();
+		//lnkCustomers_menu.click();
+		exe=(JavascriptExecutor)ldriver;
+		exe.executeScript("arguments[0].click()",lnkCustomers_menu );
 	}
 
 	public void clickOnCustomersMenuItem() {
