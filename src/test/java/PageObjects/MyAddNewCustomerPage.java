@@ -13,7 +13,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class MyAddNewCustomerPage {
 
-	public WebDriver ldriver;
+	public static WebDriver ldriver;
 
 	//constructor
 	public MyAddNewCustomerPage(WebDriver rdriver)
@@ -22,7 +22,7 @@ public class MyAddNewCustomerPage {
 		PageFactory.initElements(ldriver, this);
 	}
 	public WebDriverWait wait;
-	static JavascriptExecutor exe;
+	public static JavascriptExecutor exe;
 	//Find web elements on the web page
 	@FindBy(xpath="//a[@href='#']//p[contains(text(),'Customers')]")	 
 	WebElement lnkCustomers_menu;
@@ -105,9 +105,10 @@ public class MyAddNewCustomerPage {
 	}
 
 	public void clickOnCustomersMenuItem() {
-		wait=new WebDriverWait(ldriver,Duration.ofSeconds(30));
-		wait.until(ExpectedConditions.elementToBeClickable(lnkCustomers_menuitem)).click();
-		///lnkCustomers_menuitem.click();
+//		wait=new WebDriverWait(ldriver,Duration.ofSeconds(30));
+//		wait.until(ExpectedConditions.elementToBeClickable(lnkCustomers_menuitem)).click();
+//		///lnkCustomers_menuitem.click();
+		exe.executeScript("arguments[0].click()",lnkCustomers_menuitem );
 	}
 
 	public void clickOnAddnew() {
